@@ -1,0 +1,4 @@
+#command prompt command
+set FLASK_ENV=development
+set FLASK_DEBUG=0
+python chatbot.py
